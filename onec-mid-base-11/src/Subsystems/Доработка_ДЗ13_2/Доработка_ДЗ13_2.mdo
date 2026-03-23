@@ -8,4 +8,5 @@
   <includeHelpInContents>true</includeHelpInContents>
   <content>Catalog.Должность_ДЗ11_2</content>
   <content>Catalog.КонтактныеЛица_ДЗ11_2</content>
+  <content>Document.ДЗ12_Доставка</content>
 </mdclass:Subsystem>
