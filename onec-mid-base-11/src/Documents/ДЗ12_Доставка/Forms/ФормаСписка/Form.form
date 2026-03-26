@@ -570,9 +570,29 @@
     </notDefaultUseAlwaysAttributes>
     <main>true</main>
     <extInfo xsi:type="form:DynamicListExtInfo">
+      <queryText>ВЫБРАТЬ 
+       ДЗ12_Доставка.Ссылка, 
+       ДЗ12_Доставка.ПометкаУдаления, 
+       ДЗ12_Доставка.Номер, 
+       ДЗ12_Доставка.Дата, 
+       ДЗ12_Доставка.Проведен, 
+       ДЗ12_Доставка.Основание, 
+       ДЗ12_Доставка.Ответственный, 
+       ДЗ12_Доставка.Комментарий, 
+       ДЗ12_Доставка.Организация, 
+       ДЗ12_Доставка.Контрагент, 
+       ДЗ12_Доставка.Договор, 
+       ДЗ12_Доставка.АдресДоставки, 
+       ДЗ12_Доставка.Товары.*, 
+       ДЗ12_Доставка.МоментВремени
+ ИЗ 
+       Документ.ДЗ12_Доставка
+ КАК 
+       ДЗ12_Доставка</queryText>
       <mainTable>Document.ДЗ12_Доставка</mainTable>
       <dynamicDataRead>true</dynamicDataRead>
       <autoFillAvailableFields>true</autoFillAvailableFields>
+      <customQuery>true</customQuery>
       <autoSaveUserSettings>true</autoSaveUserSettings>
       <getInvisibleFieldPresentations>true</getInvisibleFieldPresentations>
     </extInfo>

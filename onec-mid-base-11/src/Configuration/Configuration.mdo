@@ -1217,6 +1217,7 @@
   <catalogs>Catalog.Файлы</catalogs>
   <catalogs>Catalog.Должность_ДЗ11_2</catalogs>
   <catalogs>Catalog.КонтактныеЛица_ДЗ11_2</catalogs>
+  <catalogs>Catalog.ДЗ12_ДоставкаПрисоединенныеФайлы</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
